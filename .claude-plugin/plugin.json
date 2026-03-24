@@ -1,0 +1,8 @@
+{
+  "name": "offer-creation",
+  "version": "1.0.0",
+  "description": "End-to-end offer creation pipeline. One command handles everything: brand setup, Offer Doc, HTML pitch deck, VSL script, landing page, and DM openers. All deliverables are HTML — no PowerPoint dependency.",
+  "author": {
+    "name": "Sabahudin Murtic"
+  }
+}
